@@ -13,6 +13,6 @@ setting trainning samples Path and save path then run. outputs the background im
 #videomk.m
 once you finish GMM.pde you can use those divided images to make a video.  
 ![origin_image](http://github.com/Chancing0/EZ-GMM-with-Dataset/raw/master/test0509.jpg)
-![background_image](http://github.com/Chancing0/EZ-GMM-with-Dataset/raw/master/background.jpg)
+![background_image](http://github.com/Chancing0/EZ-GMM-with-Dataset/raw/master/background.png)
 ![divided_image](http://github.com/Chancing0/EZ-GMM-with-Dataset/raw/master/310.jpg)
 
