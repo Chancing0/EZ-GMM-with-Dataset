@@ -8,3 +8,7 @@ https://drive.google.com/open?id=1s2p2za8o7y9dt3LOPDanG9svfeidpGsz
 https://drive.google.com/open?id=1tyKsFajWMFdTKbvz-6GgT09Fymik3dT3  
 3. parking lot dataset  
 https://drive.google.com/open?id=11AWXCVkXEb41CLbu_NJnFQO-LPoA85Jo  
+#GMM.pde  
+setting trainning samples Path and save path then run. outputs the background image and divided images by trainning datasets  
+#videomk.m
+once you finish GMM.pde you can use those divided images to make a video.  
